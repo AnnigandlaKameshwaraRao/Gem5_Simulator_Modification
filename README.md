@@ -111,7 +111,7 @@ Structured data was collected for each benchmark individually and stored using t
 
 #### Potential Improvements:
 - Investigate prefetching or prioritization for frequently accessed sets.
-- Reduce associativity to minimize conflict misses.
+- Reduce associativity to minimise conflict misses.
 - Extend analysis to L2 or LLC caches.
 
 ---
